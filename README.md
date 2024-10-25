@@ -41,10 +41,10 @@
   <img height="40" whidth="50"  src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" alt="Cypress"/>
 </div>
 
-## Projetos
+## 📊 Projetos:
 Estes projetos abaixo visam ajudar com o estudo, segue abaixo a preparação para a prova `AZ 900` e também projetos de arquitetura em cloud: ⤵️
 
-[![Projetos preparação AZ 900](https://img.shields.io/badge/Projetos%20preparação%20AZ%20900-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=Azure)
+[![Preparação AZ 900](https://img.shields.io/badge/Projetos%20preparação%20AZ%20900-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=Azure)
 [![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=vm)
 
 [![YuriMSdS](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMSdS&layout=compact&theme=tokyonight)](https://github.com/YuriMSdS/github-readme-stats)
