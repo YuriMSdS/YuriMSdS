@@ -44,24 +44,24 @@
 ## 📊 Projetos:
 Estes projetos abaixo visam ajudar com o estudo, segue abaixo a preparação para a prova `AZ 900` e também projetos de arquitetura em cloud: ⤵️
 
-[![Preparação AZ 900](https://img.shields.io/badge/Projetos%20preparação%20AZ%20900-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=Azure)
+[![Preparação AZ 900](https://img.shields.io/badge/Preparação%20AZ%20900-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=Azure)
 [![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=vm)
 
 [![YuriMSdS](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMSdS&layout=compact&theme=tokyonight)](https://github.com/YuriMSdS/github-readme-stats)
 <p align="left">
-  💌 Abaixo estão os meios para entrar em contato comigo! Seja para uma troca de conhecimentos, oportunidades profissionais ou apenas conversar hehe serão todos bem-vindos: ⤵️
+  💌 Abaixo estão os meios para entrar em contato comigo: ⤵️
 </p>
 
 <p align="center">
-  <a href="mailto:yuri.md13@gmail.com" height="30" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="mailto:yuri.md13@gmail.com" title="Gmail" target="_blank">
+  <img height="30" whidth="50" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-  <a href="https://www.linkedin.com/in/yuri-mss/" height="30" title="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yuri-mss/"  title="LinkedIn" target="_blank">
+  <img  height="30" whidth="50" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
-  <a href="https://wa.me/5515998245611" height="30" title="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://wa.me/5515998245611" title="WhatsApp" target="_blank">
+  <img  height="30" whidth="50" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
   
-  <a href="https://www.instagram.com/riyuuyu_/" height="30" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/riyuuyu_/" title="Instagram" target="_blank">
+  <img  height="30" whidth="50" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
