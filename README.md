@@ -11,34 +11,34 @@
 
 ##  🖥️ Linguagens:
 <div style="display: flex;">
-<img height="60" whidth="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/terraform/terraform.png" alt="Terraform"/>
-
-<img height="60" whidth="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-
-<img height="60" whidth="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/ansible/ansible.png" alt="Ansible"/>
-
-<img height="60" whidth="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/git/git.png" alt="Git"/>
-
-<img height="60"  whidth="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/bash/bash.png" alt="Bash"/>
+  <img height="40" width="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/terraform/terraform.png" alt="Terraform"/>
+  
+  <img height="40" width="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+  
+  <img height="40" width="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/ansible/ansible.png" alt="Ansible"/>
+  
+  <img height="40" width="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/git/git.png" alt="Git"/>
+  
+  <img height="40" width="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/bash/bash.png" alt="Bash"/>
 </div>
 
 ## 💼 Ferramentas: 
-<div style="display: flex; padding: 0 0 10px 0">
-<img height="40" whidth="20"  src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png" alt="Postman"/>
-
-<img height="40" whidth="20"  src="https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png" alt="GCP"/>
-
-<img height="40" whidth="20"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/aws/aws.png" alt="AWS"/>
-
-<img height="40" whidth="20"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/azure/azure.png" alt="Azure"/>
-
-<img height="40" whidth="20"  src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="GitLab"/>
-
-<img height="40" whidth="20"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/jenkins/jenkins.png" alt="Jenkins"/>
-
-<img height="40" whidth="20"  src="https://static-00.iconduck.com/assets.00/githubactions-icon-2048x2048-ipqow27x.png" alt="GitHub Actions"/>
-
-<img height="40" whidth="20"  src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" alt="Cypress"/>
+<div style="display: flex;">
+  <img height="40" whidth="50"  src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png" alt="Postman"/>
+  
+  <img height="40" whidth="50"  src="https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png" alt="GCP"/>
+  
+  <img height="40" whidth="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/aws/aws.png" alt="AWS"/>
+  
+  <img height="40" whidth="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/azure/azure.png" alt="Azure"/>
+  
+  <img height="40" whidth="50"  src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="GitLab"/>
+  
+  <img height="40" whidth="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/jenkins/jenkins.png" alt="Jenkins"/>
+  
+  <img height="40" whidth="50"  src="https://static-00.iconduck.com/assets.00/githubactions-icon-2048x2048-ipqow27x.png" alt="GitHub Actions"/>
+  
+  <img height="40" whidth="50"  src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" alt="Cypress"/>
 </div>
 
 [![YuriMSdS](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMSdS&layout=compact&theme=tokyonight)](https://github.com/YuriMSdS/github-readme-stats)
