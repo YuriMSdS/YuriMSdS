@@ -1,12 +1,16 @@
 # Yuri Miguel
 ### DevOps | Cloud archictect | Automation
-<img src="https://cdn.pixabay.com/photo/2023/09/14/13/08/ai-generated-8252966_1280.jpg" alt="Cloud Computing" style="min-width: 300px; max-width: 300px; width: 300px;" padding="0 0 30px 0" align="right">
-
-
-<p align="left"> 
-  <strong>Olá! Me chamo Yuri Miguel e sou apaixonado por Cloud Computing ☁️ <strong>. <br><br>Trabalho com automação de testes e DevOps, e estou cada vez mais focado em AWS, GCP e Azure.<br><br> Gosto de criar soluções que sejam escaláveis e eficientes, mas que também resolvam problemas de forma prática.<br> Meu objetivo é me tornar arquiteto de soluções cloud, sempre buscando aprender e aplicar o que aprendo no dia a dia.<br><br>
-  Atualmente atuo como estagiário em testes de software e busco oportunidades para atuar como arquiteto de soluções cloud.
-</p>
+<table>
+  <tr>
+    <td>
+      <strong>Olá! Me chamo Yuri Miguel e sou apaixonado por Cloud Computing ☁️</strong>. <br><br>
+      Foco meus estudos cada vez mais em AWS, GCP e Azure.<br><br>
+      Busco criar soluções que sejam escaláveis e eficientes, mas que também resolvam problemas de forma prática.
+    </td>
+    <td>
+      <img src="https://cdn.pixabay.com/photo/2023/09/14/13/08/ai-generated-8252966_1280.jpg" alt="Cloud Computing" style="width: 300px;">
+    </td>
+</table>
 
 
 ##  🖥️ Linguagens:
