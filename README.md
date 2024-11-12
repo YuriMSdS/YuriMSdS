@@ -46,11 +46,11 @@
 </div>
 
 ## 📊 Projetos:
-Estes projetos abaixo visam ajudar com o estudo, segue abaixo a preparação para a prova `AZ 900` e também projetos de arquitetura em cloud: ⤵️
+Estes projetos abaixo visam ajudar com o estudo, segue abaixo a preparação para a prova `AZ 900` e também projetos de DevOps e Cloud Architecture: ⤵️
 
 [![Preparação AZ 900](https://img.shields.io/badge/Preparação%20AZ%20900-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=Azure)
-[![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=vm)
 [![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=topic:devops)
+[![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=vm)
 
 [![YuriMSdS](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMSdS&layout=compact&theme=tokyonight)](https://github.com/YuriMSdS/github-readme-stats)
 <p align="left">
