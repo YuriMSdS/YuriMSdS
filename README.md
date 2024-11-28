@@ -39,9 +39,7 @@
   <img height="40" whidth="50"  src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="GitLab"/>
   
   <img height="40" whidth="50"  src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/jenkins/jenkins.png" alt="Jenkins"/>
-  
-  <img height="40" whidth="50"  src="https://static-00.iconduck.com/assets.00/githubactions-icon-2048x2048-ipqow27x.png" alt="GitHub Actions"/>
-  
+   
   <img height="40" whidth="50"  src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" alt="Cypress"/>
 </div>
 
