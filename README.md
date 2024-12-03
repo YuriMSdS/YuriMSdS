@@ -56,7 +56,7 @@ Estes projetos abaixo visam ajudar com o estudo, segue abaixo a preparação par
 </p>
 
 <p align="center">
-  <a href="mailto:yuri.md13@gmail.com" title="Gmail" target="_blank">
+  <a href="mailto:yuri.mdss02@gmail.com" title="Gmail" target="_blank">
   <img height="30" whidth="50" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/yuri-mss/"  title="LinkedIn" target="_blank">
