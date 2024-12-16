@@ -48,7 +48,7 @@ Estes projetos abaixo visam ajudar com o estudo, segue abaixo a preparação par
 
 [![Preparação AZ 900](https://img.shields.io/badge/Preparação%20AZ%20900-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=Azure)
 [![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=topic:devops)
-[![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=vm)
+[![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoft)](https://github.com/YuriMSdS?tab=repositories&q=topic:architecture)
 
 [![YuriMSdS](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMSdS&layout=compact&theme=tokyonight)](https://github.com/YuriMSdS/github-readme-stats)
 <p align="left">
