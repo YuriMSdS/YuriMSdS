@@ -8,7 +8,7 @@
       Busco criar soluções que sejam escaláveis e eficientes, mas que também resolvam problemas de forma prática.
     </td>
     <td>
-      <img src="https://cdn.pixabay.com/photo/2023/09/14/13/08/ai-generated-8252966_1280.jpg" alt="Cloud Computing" style="width: 300px;">
+      <img src="img/cloud-computing-image.jpg" alt="Cloud Computing" style="width: 300px;">
     </td>
 </table>
 
